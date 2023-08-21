@@ -1,5 +1,5 @@
 <h3 align="center">My name is Hussain, I'm on a self-taught journey, Python was my first language, and I'm currently following the Full-Stack roadmap with JavaScript.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/dxReD7MzBFKtfeDw6">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/Xj95a5LkXAQ1NG3Z6">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hossein__00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hossein__00" height="30" width="40" /></a>
