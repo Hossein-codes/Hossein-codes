@@ -1,4 +1,5 @@
-<h3 align="center">I am Hossein and I work in the web domain with Python, JavaScript, CSS and HTML languages.</h3>
+<h1 align="center">Hi 👋, I'm Hossein</h1>
+<h3 align="center">My name is Hossein. I'm on a self-taught journey, Python was my first language, and I'm currently following the Full-Stack roadmap with JavaScript.with Python, JavaScript, CSS and HTML languages.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
