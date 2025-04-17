@@ -1,7 +1,7 @@
 <h3 align="center">Hello world, my name is Hossein and I started programming with Python in 2023 and I plan to learn C++ in the future (:</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/id_hossein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hossein__00" height="30" width="40" /></a>
+<a href="https://twitter.com/id_hossein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="id_hossein" height="30" width="40" /></a>
 <a 
 </p>
 
